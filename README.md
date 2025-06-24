@@ -1,9 +1,9 @@
 ## Hi there 👋
 I'm Alvin
 
-I'm currently studying Informatics Systems at the Open University and have created projects like urbia.vercel.app, which is a company website for an architectural studio.
+I'm currently studying Informatics Systems at the Open University and have created projects like [Urbia](urbia.vercel.app), which is a company website for an architectural studio.
 Still learning web development and keeping up with the tech world.
-You can check my website on alvinxal.my.id
+You can check my website on [Alvin Portfolio](alvinxal.my.id) 
 
 
 Feel free to hit me up!
