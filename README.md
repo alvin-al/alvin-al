@@ -1,4 +1,12 @@
 ## Hi there 👋
+I'm Alvin
+
+I'm currently studying Informatics Systems at the Open University and have created projects like urbia.vercel.app, which is a company website for an architectural studio.
+Still learning web development and keeping up with the tech world.
+You can check my website on alvinxal.my.id
+
+
+Feel free to hit me up!
 
 <!--
 **alvin-al/alvin-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
